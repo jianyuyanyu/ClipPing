@@ -65,7 +65,7 @@ Settings are stored in `%LOCALAPPDATA%\ClipPing\settings.ini`.
 
 ## Building from source
 
-Open `src/ClipPing.sln` in Visual Studio 2025 and build the Release/x64 configuration. The output is placed in the `build/` directory.
+Open `src/ClipPing.sln` in Visual Studio 2026 and build the Release/x64 configuration. The output is placed in the `build/` directory.
 
 ## License
 
